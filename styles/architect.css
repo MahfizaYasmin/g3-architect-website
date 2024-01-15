@@ -206,9 +206,12 @@ main {
         flex-direction: column;
     }
     .features-img img{
-        width: 100%;
+        width: 90%;
         margin-left: 0px;
         padding-right: 0px;
+    }
+    .ten-years-badge{
+        width: 300px;
     }
     .teams-img-container{
         grid-template-columns: 1fr;
